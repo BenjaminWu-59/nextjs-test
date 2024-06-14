@@ -1,3 +1,3 @@
 # nextjs-test
-a test for nextjs
+a test for next.js, just for learning!
 
